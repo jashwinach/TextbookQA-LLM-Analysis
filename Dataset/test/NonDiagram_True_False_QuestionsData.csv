@@ -1,0 +1,913 @@
+Unnamed: 0,lesson_name,question_name,answer_choice_1,answer_choice_2,correct_answer,gpt4_generated_answers
+0,the nature of science,The scientific method is used to answer any question that one can think of.,True,False,False,False
+1,the nature of science,Scientific models are an organized step-by-step process to answer a question in science.,True,False,False,False
+2,the nature of science,The dependent variable in an experiment is directly influenced by the independent variable.,True,False,True,True
+3,the nature of science,"Even if there is information we dont know, a model can be used to explain an event.",True,False,True,True
+4,the nature of science,A theory will still remain even if conflicting data is discovered.,True,False,False,True
+5,the nature of science,Science is a set of knowledge and also a way of knowing things.,True,False,True,True
+6,the nature of science,A scientific hypothesis is useful only if it is proven to be true.,True,False,False,False
+7,the nature of science,Controls are factors that could affect the outcome of an experiment.,True,False,True,True
+8,the nature of science,A scientific investigation always begins with a theory.,True,False,False,False
+9,the nature of science,An example of a scientific hypothesis is that angels dance on the head of a pin.,True,False,False,False
+10,the nature of science,An example of a scientific theory is the theory of plate tectonics.,True,False,True,True
+11,the nature of science,A globe is a physical model of planet Earth.,True,False,True,True
+12,the nature of science,Only models that are perfect representations of reality are useful in science.,True,False,False,False
+13,the nature of science,You should wear a hoodie to protect your hair when you work in a science lab.,True,False,False,False
+14,the nature of science,You should take a first aid kit when you do a science investigation in the field.,True,False,True,True
+15,erosion and deposition by wind,Wind causes very little erosion.,True,False,False,False
+16,erosion and deposition by wind,Wind can carry dust just a few kilometers.,True,False,False,True
+17,erosion and deposition by wind,Particles that the wind moves by traction stay on the ground.,True,False,True,True
+18,erosion and deposition by wind,Wind-blown sand cannot erode solid rock.,True,False,False,False
+19,erosion and deposition by wind,"When wind slows down, it deposits smaller sediments first.",True,False,False,False
+20,erosion and deposition by wind,A sand dune migrates in the same direction that the wind usually blows.,True,False,True,True
+21,erosion and deposition by wind,A sand dune has a gentle slope on the slip face side.,True,False,False,False
+22,erosion and deposition by wind,Wind causes less erosion when it blows at a higher speed.,True,False,False,False
+23,erosion and deposition by wind,Wind erosion can be reduced by planting rows of trees around fields.,True,False,True,True
+24,erosion and deposition by wind,Fences are used to help prevent erosion of sand dunes.,True,False,True,True
+25,history of earths life forms,Organisms alive today evolved from earlier life forms.,True,False,True,True
+26,history of earths life forms,Adaptations are inheritable characteristics that help an organism to survive.,True,False,True,True
+27,history of earths life forms,Mass extinctions often separate the time periods on the geologic time scale.,True,False,True,True
+28,history of earths life forms,A mutation is almost always favorable.,True,False,False,False
+29,history of earths life forms,Any animal can adapt to any environmental conditions.,True,False,False,False
+30,history of earths life forms,More than a million species are known to live on Earth today.,True,False,True,True
+31,history of earths life forms,Almost all existing species have now been discovered.,True,False,False,False
+32,history of earths life forms,All organisms have a unique set of traits.,True,False,True,True
+33,history of earths life forms,All gene mutations are harmful.,True,False,False,False
+34,history of earths life forms,Adaptations evolve because they help organisms survive or reproduce.,True,False,True,True
+35,history of earths life forms,All organisms alive today evolved from earlier life forms.,True,False,True,True
+36,history of earths life forms,Ancient horses were much larger than they are today.,True,False,False,False
+37,history of earths life forms,Most species that once lived on Earth are now extinct.,True,False,True,True
+38,history of earths life forms,Paleozoic life was more diverse on land than in the oceans.,True,False,False,False
+39,history of earths life forms,Moving from water to land required many new adaptations.,True,False,True,True
+40,air movement,The westerly winds travel toward the west.,True,False,False,False
+41,air movement,Cool air sinking creates a high pressure zone at the ground.,True,False,True,True
+42,air movement,Wind is created by air that moves vertically between high and low pressure zones.,True,False,False,False
+43,air movement,"Walking on the beach in San Diego in December, one would likely feel a strong sea breeze coming off",True,False,False,True
+44,air movement,Winds blow northeast to southwest or the reverse due to Coriolis Effect.,True,False,True,False
+45,air movement,The strength of the wind depends on the difference in air pressure.,True,False,True,True
+46,air movement,Ocean water warms up and cools down more quickly than land.,True,False,False,False
+47,air movement,Land breezes blow when the land is warmer than the ocean.,True,False,False,False
+48,air movement,Monsoons occur because of seasonal differences in temperature.,True,False,True,True
+49,air movement,Global winds are caused by Earths rotation on its axis.,True,False,False,False
+50,air movement,Global winds called westerlies blow toward the northwest or southwest.,True,False,False,True
+51,air movement,Global winds called easterlies blow away from the poles.,True,False,True,False
+52,air movement,The strongest jet streams are the polar jets.,True,False,True,True
+53,air movement,Warm air rises through the troposphere until it reaches the tropopause.,True,False,True,True
+54,air movement,"In the summer, ocean water is warmer than the land during the day.",True,False,False,False
+55,changing weather,The main reason that weather changes is the movement of air masses.,True,False,True,True
+56,changing weather,Most air masses form over polar or tropical regions.,True,False,True,True
+57,changing weather,"When air masses collide, their air mixes together.",True,False,False,False
+58,changing weather,Fronts are always moving.,True,False,False,True
+59,changing weather,Fronts usually have fair weather.,True,False,False,False
+60,changing weather,An air mass is a batch of air that has very similar temperature and humidity.,True,False,True,True
+61,changing weather,"At a cold front, a warm air mass lifts a cold air mass out of its way.",True,False,False,False
+62,changing weather,Warm fronts move slowly and cover a wide area.,True,False,True,True
+63,changing weather,Air masses generally form over a relatively small area.,True,False,False,False
+64,changing weather,Air always flows from lower to higher pressure.,True,False,False,False
+65,changing weather,A front is the meeting of two air masses that have different densities and do not easily mix.,True,False,True,True
+66,changing weather,"An occluded front has three air masses: cold, warm, then cold.",True,False,True,True
+67,changing weather,The Coriolis effect causes the winds of a cyclone to rotate.,True,False,True,True
+68,changing weather,"Cyclones bring fair, dry weather.",True,False,False,False
+69,changing weather,"Cyclones occur only in the Northern Hemisphere, and anticyclones occur only in the Southern Hemi-",True,False,False,False
+70,storms,Thunderstorms occur when the air is very warm and humid.,True,False,True,True
+71,storms,Thunder is caused by clouds rubbing together.,True,False,False,False
+72,storms,Severe thunderstorms may produce tornadoes.,True,False,True,True
+73,storms,Lightning never strikes the same place twice.,True,False,False,False
+74,storms,Tornadoes may be hundreds of kilometers wide.,True,False,False,False
+75,storms,Cumulonimbus clouds are created by strong downdrafts.,True,False,False,False
+76,storms,Hurricanes gain strength when they go ashore.,True,False,False,False
+77,storms,The Fujita scale is used to classify hurricanes.,True,False,False,False
+78,storms,"The states of Texas, Oklahoma, Kansas, Nebraska and South Dakota are the hotspots for tornadoes.",True,False,True,True
+79,storms,All the damage done by hurricanes is caused by high winds.,True,False,False,False
+80,storms,Lightning heats the air so that it expands explosively.,True,False,True,True
+81,storms,"If there were no thunderstorms in Kansas, there would be no tornadoes there either.",True,False,True,False
+82,storms,Windchill depends on air temperature and wind speed.,True,False,True,True
+83,storms,Lake-effect snow occurs because of differences in temperature between land and water.,True,False,True,True
+84,storms,Storms that may have the greatest wind speeds are blizzards.,True,False,False,False
+85,weather forecasting,"On a weather map, a curved red line with triangles indicates a warm front.",True,False,False,False
+86,weather forecasting,Weather predictions are right more often than a guess would be.,True,False,True,True
+87,weather forecasting,"In a barometer, the atmosphere pressing down makes the mercury level go down.",True,False,False,False
+88,weather forecasting,All weather data is collected using computerized devices.,True,False,False,False
+89,weather forecasting,Weather stations collect data on land or at sea.,True,False,True,True
+90,weather forecasting,Some weather stations float on the ocean.,True,False,True,True
+91,weather forecasting,A weather station has several weather instruments.,True,False,True,True
+92,weather forecasting,Weather balloons are tied down so they will not float away.,True,False,False,False
+93,weather forecasting,Weather balloons send out radio waves in all directions.,True,False,False,False
+94,weather forecasting,A single weather satellite orbits Earth.,True,False,False,False
+95,weather forecasting,Weather radar is used to detect high winds.,True,False,False,True
+96,weather forecasting,Computers and models are used to analyze weather data.,True,False,True,True
+97,weather forecasting,Weather predictions have become more accurate in recent decades.,True,False,True,True
+98,weather forecasting,A weather map shows weather conditions for a given area.,True,False,True,True
+99,weather forecasting,A weather map always shows temperature and precipitation.,True,False,False,False
+100,climate and its causes,Air temperature is lower at lower altitude.,True,False,False,False
+101,climate and its causes,"In the polar regions, a lot of sunlight reflects back into space.",True,False,True,True
+102,climate and its causes,The most snowfall is at the poles.,True,False,False,False
+103,climate and its causes,Precipitation falls on mountains because air cools and can hold less moisture at higher elevations.,True,False,True,True
+104,climate and its causes,The latitude of a region affects how much solar radiation it receives.,True,False,True,True
+105,climate and its causes,Climate depends only on distance north or south of the equator.,True,False,False,False
+106,climate and its causes,Ice and snow absorb a lot of sunlight.,True,False,False,False
+107,climate and its causes,Precipitation is high where warm air from lower latitudes meets frigid air from the poles.,True,False,True,True
+108,climate and its causes,Dry air sinks to the surface at about 60 degrees north and south latitude.,True,False,False,False
+109,climate and its causes,Subtropical climates are dry for at least some of the year.,True,False,True,True
+110,climate and its causes,The movement of air masses causes weather.,True,False,True,True
+111,climate and its causes,A place far from the ocean typically has less variation in temperature than a place close to the ocean.,True,False,False,False
+112,climate and its causes,Ocean currents always bring warm water to cold regions.,True,False,False,False
+113,climate and its causes,Air is colder at high altitudes because it is less dense.,True,False,True,True
+114,climate and its causes,A rain shadow is an area that receives a lot of rain because of a nearby mountain.,True,False,False,False
+115,ecosystems,An organism that eats many types of animals only is an omnivore.,True,False,False,False
+116,ecosystems,Every ecosystem has the same general roles that living creatures fill.,True,False,True,True
+117,ecosystems,"In an ecosystem, energy flows in many directions; matter flows in one direction.",True,False,False,False
+118,ecosystems,A community is all of the species and abiotic factors that coexist within a specific area.,True,False,False,True
+119,ecosystems,"Mules, offspring of male donkeys and female horses, cannot have offspring and so are not members of",True,False,True,True
+120,ecosystems,Soil is an example of a biotic factor in an ecosystem.,True,False,False,False
+121,ecosystems,All ecosystems have living things that play the same basic roles.,True,False,True,True
+122,ecosystems,Algae are producers that make food by chemosynthesis.,True,False,False,False
+123,ecosystems,Some consumers get food by eating decomposers.,True,False,True,True
+124,ecosystems,An organism that eats only plants is called an herbivore.,True,False,True,True
+125,ecosystems,Some plants are consumers.,True,False,True,False
+126,ecosystems,Food chains can have dozens of levels.,True,False,False,False
+127,ecosystems,Secondary consumers obtain food by eating producers.,True,False,False,False
+128,ecosystems,Matter must be constantly added to food chains.,True,False,False,False
+129,ecosystems,Carbon is an example of a nutrient.,True,False,True,False
+130,air masses,thunderstorms are caused by colder air masses moving over warmer ground.,True,False,True,True
+131,air masses,cold air masses tend to flow toward the poles and warm air masses tend to flow toward the equator.,True,False,False,False
+132,air masses,for an air mass to acquire the characteristics of a region it must sit over that region for several hours.,True,False,False,True
+133,biological communities,"the rainforest is an ecosystem, but the digestive system of a tree sloth is also an ecosystem.",True,False,True,True
+134,biological communities,energy moves through an ecosystem in multiple directions; nutrients move through an ecosystem in one direction.,True,False,False,False
+135,blizzards,blizzards happen when cold northern air contacts warmer semitropical air.,True,False,True,True
+136,blizzards,"when a frigid polar air crosses a warm water body, it absorbs moisture.",True,False,True,True
+137,blizzards,when a moisture-filled air mass moves over very cold land it is very unstable and a tremendous amount of snow will fall.,True,False,True,True
+138,blizzards,snow may appear to be moving horizontally in a blizzard due to the high winds.,True,False,True,True
+139,branches of earth science,weather predictions have become much more accurate in recent years due to radar and satellites.,True,False,True,True
+140,branches of earth science,"earth science is known as a combined science because it applies principles from chemistry, physics and biology to the study of earth.",True,False,True,True
+141,branches of earth science,"geologists search for natural resources, such as minerals and fuels.",True,False,True,True
+142,collecting weather data,in the atmosphere weather data is collected on buoys.,True,False,False,False
+143,collecting weather data,the advantage of a radiosonde is that it can go places that are too dangerous for an airplane.,True,False,True,True
+144,collecting weather data,our ability to predict weather is no better than it was 200 years ago.,True,False,False,False
+145,collecting weather data,radar stands for radio detection and ranging.,True,False,True,True
+146,development of theories,a law is an explanation of why something happens.,True,False,False,False
+147,development of theories,laws always hold true.,True,False,False,False
+148,development of theories,a theory can be used to predict the future.,True,False,True,True
+149,development of theories,a scientific law always applies under the same conditions.,True,False,True,True
+150,development of theories,a theory can offer an unreliable explanation.,True,False,False,True
+151,effect of continental position on climate,ocean currents can affect the temperature of land.,True,False,True,True
+152,effect of continental position on climate,continental climates are affected by the sea.,True,False,False,False
+153,effect of continental position on climate,upwelling always cools off nearby lands.,True,False,False,False
+154,effects of air pollution on the environment,"without jet contrails to block sunlight, air temperature across the united states would be lower.",True,False,True,False
+155,effects of air pollution on the environment,visibility in the united states has been reduced as much as 30% from pre- industrial times.,True,False,False,True
+156,effects of air pollution on the environment,particulates in the air may reduce photosynthesis.,True,False,True,True
+157,effects of air pollution on the environment,lichen can indicate changes in the atmosphere because they take a lot of their nutrients from the air.,True,False,True,True
+158,evolution plate tectonics and climate change,theories have very little information that contradicts them.,True,False,True,False
+159,evolution plate tectonics and climate change,theories can never be tested because they are solid.,True,False,False,False
+160,evolution plate tectonics and climate change,theories can predict the future.,True,False,True,True
+161,extinction and radiation of life,most of the species that have lived on earth have gone extinct.,True,False,True,True
+162,extinction and radiation of life,after a mass extinction many habitats are unfilled for a period of time.,True,False,True,True
+163,flow of matter in ecosystems,the energy that powers all ecosystems on earth comes from the sun.,True,False,False,True
+164,flow of matter in ecosystems,organisms always get larger up the trophic levels because only a large fish can eat a small fish.,True,False,False,False
+165,flow of matter in ecosystems,there are two global food webs: one has phytoplankton at the base and the other has land plants. (there is also a small food web with chemosynthetic bacteria at the base).,True,False,True,True
+166,flow of matter in ecosystems,humans are not part of food chains and food webs because we get most of our food from the grocery store.,True,False,False,False
+167,global wind belts,winds are named for the direction they are going.,True,False,False,False
+168,global wind belts,"in both the northern and southern hemispheres, the trade winds blow from east to west.",True,False,True,True
+169,history of cenozoic life,the cenozoic age ended when the pleistocene megafauna went extinct.,True,False,False,False
+170,history of cenozoic life,"mammals are endothermic and have fur, hair, or blubber for warmth.",True,False,True,True
+171,history of cenozoic life,the extinction of reptiles at the end of the mesozoic allowed diversification of mammals and birds into the open habitats.,True,False,True,True
+172,history of mesozoic life,there was more oxygen in the mesozoic atmosphere than there is today.,True,False,True,True
+173,history of mesozoic life,flowering plants evolved during the cretaceous.,True,False,True,True
+174,history of mesozoic life,the dinosaurs went entirely extinct.,True,False,False,False
+175,history of mesozoic life,the amniote egg has a shell and contains all the nutrients and water required for the developing embryo.,True,False,True,True
+176,history of paleozoic life,the only mass extinction in the paleozoic was the one at the end of the permian period.,True,False,False,False
+177,history of paleozoic life,the organisms that died off in the greatest mass extinction in earth history all died within days or weeks.,True,False,False,False
+178,hurricanes,the energy to fuel a hurricane comes from latent heat as water vapor condenses.,True,False,True,True
+179,hurricanes,a hurricane often turns from a northwest track to a northeast track as it moves from the trade winds to the westerlies.,True,False,True,True
+180,local winds,low pressure cells are created by warm air rising.,True,False,True,True
+181,mid latitude cyclones,most winter storms in the middle latitudes are mid-latitude cyclones.,True,False,True,True
+182,mid latitude cyclones,in the southern hemisphere a cyclone would rotate clockwise.,True,False,True,True
+183,mid latitude cyclones,about 10 noreasters strike the eastern seaboard each year.,True,False,False,False
+184,modern biodiversity,each organism is adapted to survive in a specific environment.,True,False,True,True
+185,modern biodiversity,"if you live in the developed world, you have probably seen around half of the species that exist on earth.",True,False,False,False
+186,modern biodiversity,the zebras dark stripes confuse predators and help keep it from being eaten.,True,False,True,True
+187,modern biodiversity,scientists have discovered every organism that lives on earth.,True,False,False,False
+188,predicting weather,the nwp produces the most accurate information and its forecasts are always right.,True,False,False,False
+189,predicting weather,computers produce better predictions because they can make many more calculations than people can.,True,False,True,True
+190,predicting weather,scientists are now able to predict the weather 5 days from now with as much accuracy as they could predict the weather 2 days hence only two decades ago.,True,False,True,True
+191,predicting weather,weather getting projected further into the future because we have more and better data and supercomputers to do the modeling.,True,False,True,True
+192,pressure and density of the atmosphere,air pressure decreases as the altitude increases.,True,False,False,True
+193,pressure and density of the atmosphere,gases at sea level are compressed by the weight of the atmosphere above them.,True,False,True,True
+194,pressure and density of the atmosphere,we are not crushed by air pressure because the molecules inside our bodies are pushing outward as much as the atmosphere is pushing in.,True,False,True,True
+195,roles in an ecosystem,coral have a symbiotic relationship with zooxanthellae in which the coral provide food and the zooxanthellae provide a safe home.,True,False,False,False
+196,roles in an ecosystem,omnivores only eat organisms from the plant and animal kingdoms.,True,False,False,True
+197,roles in an ecosystem,decomposers break apart dead organisms and their waste material to return them as nutrients to the ecosystem.,True,False,True,True
+198,roles in an ecosystem,competition occurs between species that try to use the same resources.,True,False,True,True
+199,scientific community,a hypothesis will not be fully accepted unless it is supported by nearly all scientists.,True,False,True,False
+200,scientific community,"science students need to know learn not to fake, hide or eliminate data.",True,False,True,True
+201,scientific community,"if science is done well, other scientists will undoubtedly accept the work as the truth.",True,False,False,False
+202,scientific community,scientific experiments must be able to be replicated to protect the integrity of science.,True,False,True,True
+203,scientific explanations and interpretations,facts are based on observations.,True,False,True,True
+204,scientific explanations and interpretations,scientists usually begin an investigation with an experiment.,True,False,False,False
+205,scientific explanations and interpretations,"based on susan sneezing and having itchy eyes, one can conclude that she has a cold.",True,False,False,False
+206,scientific method,the scientific method is a linear process with one step leading to another in the same way each time.,True,False,False,False
+207,scientific method,the amount of carbon dioxide in the atmosphere is decreasing.,True,False,False,False
+208,temperature of the atmosphere,"with the same number of molecules in less space, both air density and air pressure are lower.",True,False,True,False
+209,temperature of the atmosphere,"in each layer of the atmosphere, air temperature decreases with altitude.",True,False,False,False
+210,temperature of the atmosphere,"when air gets cooler, it decreases in density.",True,False,True,False
+211,tornadoes,winds from the strongest tornadoes can spin more than 300 mph.,True,False,True,True
+212,tornadoes,tornadoes rotate clockwise and twisters rotate anti-clockwise.,True,False,False,False
+213,tornadoes,when a tornado warning is issued it accurately tells when and where the tornado will hit.,True,False,False,False
+214,tornadoes,most deaths from tornadoes are caused by flying debris.,True,False,True,True
+215,types of marine organisms,phytoplankton are responsible for about one-quarter of earths total primary productivity.,True,False,False,True
+216,types of marine organisms,nearly all marine invertebrates have hard shells for protection.,True,False,False,False
+217,types of marine organisms,animal larvae spread in the seas as plankton and then settle to the bottom as adults.,True,False,True,True
+218,types of marine organisms,some seabirds live their entire lives without coming to land.,True,False,False,True
+219,weather fronts,"in a stationary front, winds blow parallel to the front but in opposite directions.",True,False,True,True
+220,weather fronts,"an occluded front has cold, warm and then cold fronts back to back.",True,False,True,True
+221,weather fronts,an occluded front has mild weather because there is mixing between the different air masses.,True,False,False,False
+222,weather maps,the amount of cloud cover is shown on some weather maps.,True,False,True,True
+223,weather maps,"a zone of low barometric pressure may have a value of 1009, while a zone of high pressure may be around 1032.",True,False,True,True
+224,weather maps,weather maps just shows the temperature and atmospheric pressure in a region.,True,False,False,False
+225,weather versus climate,weather is more predictable than climate.,True,False,False,False
+226,weather versus climate,climate doesnt change.,True,False,False,False
+227,weather versus climate,"if you want to go somewhere warm for winter break, you might find it on the ski slopes in lake tahoe, but youd be more likely to in tucson, arizona.",True,False,True,True
+228,weather versus climate,"if you go to tucson in june, a month known to be hot and dry, you will not experience a rain storm.",True,False,False,False
+229,wind power,wind has been used for power for hundreds of years.,True,False,True,True
+230,wind power,moving air has potential energy.,True,False,False,True
+231,wind power,the cape wind project is located in california.,True,False,False,False
+232,wind power,wind power is the fastest growing renewable energy source in the world.,True,False,True,True
+233,scientific ways of thinking,A new scientific idea is always accepted as true until it is proven false.,True,False,False,False
+234,scientific ways of thinking,A good definition of science is a body of knowledge about nature.,True,False,False,True
+235,scientific ways of thinking,Evolution by natural selection is well documented by a range of evidence.,True,False,True,True
+236,scientific ways of thinking,Mendels laws explain how living things adapt to their environment.,True,False,False,False
+237,scientific ways of thinking,A scientific law becomes a theory if more evidence is found to support it.,True,False,False,False
+238,scientific ways of thinking,A scientific law is a broad explanation that is supported by a great deal of evidence.,True,False,False,False
+239,scientific ways of thinking,Scientists use the term theory in a different way than the term is used in everyday language.,True,False,True,True
+240,scientific ways of thinking,"Once an idea becomes a scientific theory, it can never be rejected or changed.",True,False,False,False
+241,scientific ways of thinking,Scientists explain the world based on their observations.,True,False,True,True
+242,scientific ways of thinking,A scientific theory becomes a scientific law if more evidence is found to support it.,True,False,False,False
+243,scientific ways of thinking,Science is best defined as a collection of facts about the natural world.,True,False,False,False
+244,scientific ways of thinking,A questioning attitude is part of what it means to think like a scientist.,True,False,True,True
+245,what is life science,Life scientists work only in labs or natural habitats.,True,False,False,False
+246,what is life science,Fewer species have gone extinct than are alive today.,True,False,False,False
+247,what is life science,Life science is defined as the science of cells.,True,False,False,False
+248,what is life science,Physiology is the study of the interactions of organisms with each other and their environment.,True,False,False,False
+249,what is life science,Some life scientists study genes and inheritance.,True,False,True,True
+250,what is life science,All life processes take place inside cells.,True,False,True,True
+251,what is life science,The traits of organisms change over time because of natural selection.,True,False,True,True
+252,the scientific method,An experiment investigates the effects of the dependent variable on the independent variable.,True,False,False,False
+253,the scientific method,Only conclusions that support the hypothesis should be reported in scientific research.,True,False,False,False
+254,the scientific method,The steps of the scientific method must always be followed in a certain sequence.,True,False,False,False
+255,the scientific method,A scientific investigation is generally undertaken to answer a question.,True,False,True,True
+256,the scientific method,The scientific method is a rigid sequence of steps.,True,False,False,False
+257,the scientific method,"If the results of an experiment agree with predictions, they support the hypothesis.",True,False,True,True
+258,the scientific method,A testable hypothesis can be proven true if it really is false.,True,False,False,False
+259,the scientific method,An experiment investigates the effects of an independent variable on a control variable.,True,False,False,False
+260,the scientific method,Results of an investigation are more reliable if they have been replicated.,True,False,True,True
+261,the scientific method,You could apply the scientific method to answering a question in your daily life.,True,False,True,True
+262,the scientific method,Scientists may use posters to communicate with each other about their research.,True,False,True,True
+263,the scientific method,Scientific investigations always take place in a laboratory.,True,False,False,False
+264,safety in life science research,Science research is potentially dangerous only if it is done in a lab.,True,False,False,False
+265,safety in life science research,Fieldwork is any research that is carried out in an open field.,True,False,False,False
+266,safety in life science research,Long hair is a potential danger in a lab unless it is tied back or covered.,True,False,True,True
+267,safety in life science research,A science lab is a good place to eat because it has counters and sinks like a kitchen.,True,False,False,False
+268,safety in life science research,Bunsen burners should not be used around flammable materials such as paper.,True,False,True,True
+269,safety in life science research,Water should never be added to acid.,True,False,True,True
+270,safety in life science research,The safety symbol with a mouse icon represents a biohazard.,True,False,False,False
+271,introduction to plants,The earliest plants to evolve were flowering plants.,True,False,False,False
+272,introduction to plants,Plants have reproductive organs that produce gametes.,True,False,True,True
+273,introduction to plants,Plants require oxygen for photosynthesis.,True,False,False,False
+274,introduction to plants,Each plant organ generally contains just one of the major types of plant tissues.,True,False,False,False
+275,introduction to plants,A fibrous root system has a very long primary root and few secondary roots.,True,False,False,False
+276,introduction to plants,"After plant cells become specialized, they can no longer divide.",True,False,True,False
+277,introduction to plants,Most modern plants spend the majority of their life in the haploid generation.,True,False,False,False
+278,introduction to plants,"The earliest plants lacked leaves, roots, and stems.",True,False,True,True
+279,introduction to plants,Some plants consist of a single cell.,True,False,False,False
+280,introduction to plants,Dermal tissue is like the skin of a plant.,True,False,True,True
+281,introduction to plants,A taproot is a very long root that grows out to the side of a plant.,True,False,False,False
+282,introduction to plants,Most photosynthesis in plants takes place in roots.,True,False,False,False
+283,evolution and classification of plants,The first plants lived in water.,True,False,True,True
+284,evolution and classification of plants,Plants first colonized the land around 5 million years ago.,True,False,False,False
+285,evolution and classification of plants,Vascular plants are no longer the dominant land plants on Earth.,True,False,False,False
+286,evolution and classification of plants,The female gametophyte of a seed plant is contained within an ovule.,True,False,True,True
+287,evolution and classification of plants,Modern seed plants are called spermatophytes.,True,False,True,True
+288,evolution and classification of plants,Plants were the first organisms to colonize Earths land surfaces.,True,False,True,True
+289,evolution and classification of plants,The earliest land plants were similar to modern ferns.,True,False,False,False
+290,evolution and classification of plants,An offspring plant is more likely to survive if it grows very close to the parent plant.,True,False,False,False
+291,evolution and classification of plants,The part of a seed plant that develops into a seed is the pollen.,True,False,False,False
+292,evolution and classification of plants,The scales of cones are modified flower petals.,True,False,False,False
+293,evolution and classification of plants,The stamen of a flower has a stalk-like filament that ends in an anther.,True,False,True,True
+294,evolution and classification of plants,All modern seed plants produce flowers and fruits.,True,False,False,False
+295,plant responses and special adaptations,Plants are unable to resist predators because they cannot run away or hide.,True,False,False,False
+296,plant responses and special adaptations,Plants detect and respond to the daily cycle of light and darkness.,True,False,True,True
+297,plant responses and special adaptations,Plants have an immune system that protects them from disease.,True,False,False,True
+298,plant responses and special adaptations,"The narrow, strap-like leaves of cattails help them float on water.",True,False,False,False
+299,plant responses and special adaptations,Carnivorous plants do not undergo photosynthesis to make food.,True,False,False,False
+300,plant responses and special adaptations,A saguaro cactus uses its thick stem to store water.,True,False,True,True
+301,plant responses and special adaptations,An orchid gets nutrients from its host tree.,True,False,False,False
+302,plant responses and special adaptations,Primary plant roots always grow down toward the center of Earth.,True,False,True,False
+303,plant responses and special adaptations,Aquatic plants must have thick layer of cuticle to waterproof their stems and leaves.,True,False,False,False
+304,plant responses and special adaptations,Epiphytes obtain water from the air rather than from soil.,True,False,True,True
+305,plant responses and special adaptations,Carnivorous plants do not need sunlight.,True,False,False,False
+306,plant responses and special adaptations,A saguaro cactus has no leaves to transpire water.,True,False,True,True
+307,what are animals,All animals are heterotrophs.,True,False,True,True
+308,what are animals,Virtually all animals have internal digestion of food.,True,False,True,False
+309,what are animals,Animals have the most complex life cycle of all eukaryotes.,True,False,False,False
+310,what are animals,A zygote is a haploid cell that develops into an embryo.,True,False,False,False
+311,what are animals,Some animals can use sunlight to make their own food.,True,False,False,True
+312,what are animals,All animals are able to move at some stage of their life cycle.,True,False,True,True
+313,what are animals,The larval form of an animal looks just like the adult form except smaller.,True,False,False,False
+314,what are animals,Most animals absorb nutrients directly from their environment.,True,False,False,False
+315,what are animals,There are almost 40 phyla in the Animal Kingdom.,True,False,True,True
+316,what are animals,Phylum Chordata includes only vertebrates.,True,False,False,False
+317,what are animals,The typical animal life cycle includes a diploid zygote stage.,True,False,True,True
+318,what are animals,The majority of modern animals are vertebrates.,True,False,False,False
+319,how animals evolved,The earliest animals were aquatic invertebrates.,True,False,True,True
+320,how animals evolved,Modern animals with just two embryonic cell layers include flatworms.,True,False,False,True
+321,how animals evolved,Bilateral symmetry could evolve only after animals had evolved a distinctive head region.,True,False,True,False
+322,how animals evolved,A jellyfish has a complete digestive system.,True,False,False,False
+323,how animals evolved,Body segmentation increases an animals flexibility and range of motion.,True,False,True,True
+324,how animals evolved,Invertebrates with notochords include tunicates.,True,False,True,True
+325,how animals evolved,"Modern amniotes includes amphibians, reptiles, and birds.",True,False,False,False
+326,how animals evolved,The first animal trait to evolve was multicellularity.,True,False,True,False
+327,how animals evolved,Some animals lack specialized cells.,True,False,False,False
+328,how animals evolved,The first type of symmetry to evolve was bilateral symmetry.,True,False,False,False
+329,how animals evolved,Early land vertebrates evolved an exoskeleton to support the body and help retain water.,True,False,False,False
+330,how animals evolved,Amphibians were the first animals to have true lungs and limbs for life on land.,True,False,True,True
+331,insects and other arthropods,More than half of all known organisms are insects.,True,False,True,True
+332,insects and other arthropods,Some arthropods have no appendages.,True,False,False,False
+333,insects and other arthropods,The arthropod exoskeleton reduces water loss.,True,False,True,True
+334,insects and other arthropods,Insects are the only invertebrates that can fly.,True,False,True,False
+335,insects and other arthropods,Molting occurs when an adult insect breaks out of its cocoon.,True,False,False,False
+336,insects and other arthropods,The wings of an insect are attached to the abdomen.,True,False,False,False
+337,insects and other arthropods,Insect wings form from the exoskeleton.,True,False,True,True
+338,insects and other arthropods,Arthropods have special breathing organs.,True,False,True,True
+339,insects and other arthropods,"In some arthropods, the head and the abdomen are joined together.",True,False,False,True
+340,insects and other arthropods,The exoskeleton grows larger as the arthropod inside it grows.,True,False,False,False
+341,insects and other arthropods,"In some arthropods, newly hatched offspring look like small adults.",True,False,True,True
+342,insects and other arthropods,Insects are the most numerous organisms on Earth.,True,False,True,True
+343,echinoderms and invertebrate chordates,Sea squirts are classified in Phylum Echinodermata.,True,False,False,False
+344,echinoderms and invertebrate chordates,Some echinoderms live in moist soil.,True,False,False,False
+345,echinoderms and invertebrate chordates,The spines of echinoderms are made entirely of skin.,True,False,False,False
+346,echinoderms and invertebrate chordates,The nerve cord of a chordate runs along the top side of the animal.,True,False,True,True
+347,echinoderms and invertebrate chordates,There are only about 25 species of living lancelets.,True,False,True,False
+348,echinoderms and invertebrate chordates,All echinoderms live in the ocean.,True,False,True,True
+349,echinoderms and invertebrate chordates,There are about 600 living species of echinoderms.,True,False,False,False
+350,echinoderms and invertebrate chordates,Echinoderms evolved from an ancestor with radial symmetry.,True,False,False,False
+351,echinoderms and invertebrate chordates,Echinoderms can regrow missing body parts.,True,False,True,True
+352,echinoderms and invertebrate chordates,Chordates have a central nervous system.,True,False,True,True
+353,echinoderms and invertebrate chordates,The notochord provides stiffness to counterbalance the pull of muscles.,True,False,True,True
+354,echinoderms and invertebrate chordates,Most living chordates are vertebrates.,True,False,True,True
+355,amphibians,Amphibians are thought to have evolved from cartilaginous fish.,True,False,False,False
+356,amphibians,The mucous glands of some species of amphibians secrete toxins.,True,False,True,True
+357,amphibians,The respiratory and reproductive systems of amphibians share a single body cavity.,True,False,False,True
+358,amphibians,Frogs have a larynx that allows them to make sounds.,True,False,True,True
+359,amphibians,Modern amphibians are endotherms.,True,False,False,False
+360,amphibians,The ancestor of amphibians was probably a lobe-finned fish.,True,False,True,True
+361,amphibians,Amphibians are oviparous.,True,False,True,True
+362,amphibians,"Amphibians can smell, taste, hear, and see.",True,False,True,True
+363,amphibians,Amphibian parents typically guard their eggs and defend their larvae from predators.,True,False,False,False
+364,amphibians,All known species of amphibians are placed in one of three orders.,True,False,True,False
+365,amphibians,Caecilians are the only amphibians without legs.,True,False,True,True
+366,amphibians,Amphibians produce amniotic eggs that do not dry out.,True,False,False,False
+367,reptiles,The reptile class is one of the smallest classes of vertebrates.,True,False,False,False
+368,reptiles,The brain of most reptiles is less complex than the amphibian brain.,True,False,False,False
+369,reptiles,Reptile hatchlings look like smaller versions of the adults of their species.,True,False,True,True
+370,reptiles,"There are more than 8,200 living species of reptiles.",True,False,True,True
+371,reptiles,Reptiles have a circulatory system with a heart that pumps blood.,True,False,True,True
+372,reptiles,A lizard uses its nose to smell scents in the air.,True,False,False,True
+373,reptiles,Some snakes use their tongue to inject poison into their prey.,True,False,False,False
+374,reptiles,Most reptiles have internal fertilization of gametes.,True,False,True,True
+375,reptiles,Crocodilians have greater intelligence than other reptiles.,True,False,True,True
+376,reptiles,Snakes evolved from a four-legged ancestor.,True,False,True,True
+377,reptiles,Reptiles have one or more larval stages.,True,False,False,False
+378,reptiles,Tuataras are the least specialized of all living reptiles.,True,False,True,False
+379,birds,The largest bird is about 2 meters tall.,True,False,False,True
+380,birds,Birds evolved from a four-legged ancestor.,True,False,True,True
+381,birds,Birds brains are small for their body size.,True,False,False,False
+382,birds,All birds build nests the same way.,True,False,False,False
+383,birds,"Birds are four-limbed, ectothermic vertebrates.",True,False,False,False
+384,birds,Birds produce amniotic eggs.,True,False,True,True
+385,birds,Only mother birds take care of the eggs and hatchlings.,True,False,False,False
+386,birds,The vertebrate class with the fewest species is birds.,True,False,False,False
+387,birds,Many perching birds are songbirds.,True,False,True,True
+388,birds,About a quarter of all birds are flightless.,True,False,False,False
+389,birds,Feathers help keep birds warm by providing insulation.,True,False,True,True
+390,birds,Birds have a relatively large heart and a rapid heart rate.,True,False,True,True
+391,mammals,The ears of mammals have specialized structures that make them extremely good at hearing.,True,False,True,True
+392,mammals,The limbs of most mammals are specialized for a particular way of moving.,True,False,True,True
+393,mammals,"Compared with the cells of other animals, the cells have mammals have more nuclei.",True,False,False,False
+394,mammals,Shivering helps the mammalian body generate heat to stay warm.,True,False,True,True
+395,mammals,You would expect a frugivorous mammal to eat wood.,True,False,False,False
+396,mammals,There are very few living species of monotreme mammals.,True,False,True,True
+397,mammals,Some mammals consume leaf litter and wood.,True,False,False,True
+398,mammals,The placenta consists only of maternal tissues.,True,False,False,False
+399,mammals,Mammals that are herbivores include wolves and seals.,True,False,False,False
+400,mammals,Only placental mammals give birth to live young.,True,False,False,False
+401,mammals,A female platypus has a cloaca instead of a uterus.,True,False,True,True
+402,mammals,Ideas about mammal classification are constantly changing.,True,False,True,True
+403,primates,Prosimian primates include monkeys and apes.,True,False,False,False
+404,primates,Primates evolved from arboreal ancestors.,True,False,True,True
+405,primates,Humans are the only primates that have color vision.,True,False,False,False
+406,primates,Primates have relatively slow rates of development compared with other mammals of a similar size.,True,False,True,True
+407,primates,Most modern primates live in trees at least some of the time.,True,False,True,True
+408,primates,Chimpanzees eat only fruit and other plant foods.,True,False,False,False
+409,primates,Human beings are the only primates that can make and use tools.,True,False,False,False
+410,primates,Tarsiers are classified as non-prosimian primates.,True,False,True,False
+411,primates,Primates have five digits on each extremity.,True,False,True,True
+412,primates,"Except for human beings, most modern primates live in tropical climates.",True,False,True,True
+413,primates,Primates tend to have small brains for their body size.,True,False,False,False
+414,primates,Prosimians are generally larger than non-prosimian primates.,True,False,False,False
+415,understanding animal behavior,Innate behaviors occur in all animals except human beings.,True,False,False,False
+416,understanding animal behavior,Behaviors that increase fitness become more common by natural selection.,True,False,True,True
+417,understanding animal behavior,The waggle dance in honeybees is an example of learned behavior.,True,False,False,False
+418,understanding animal behavior,"The more intelligent a species is, the fewer innate behaviors it generally has.",True,False,True,True
+419,understanding animal behavior,"When young animals play, they may be learning important skills they will need as adults.",True,False,True,True
+420,understanding animal behavior,An example of an innate behavior is a duckling following its mother wherever she goes.,True,False,True,True
+421,understanding animal behavior,An example of a learned behavior is a monkey using a rock as a tool.,True,False,True,True
+422,understanding animal behavior,Innate animal behaviors are always simple and easy to perform.,True,False,False,False
+423,understanding animal behavior,A bee learns to do the waggle dance by observing the behavior in other bees.,True,False,False,True
+424,understanding animal behavior,The only innate behaviors in human beings are reflex behaviors.,True,False,True,False
+425,understanding animal behavior,Learning by conditioning always involves a reward.,True,False,False,False
+426,understanding animal behavior,"The more intelligent a species is, the more it depends on learned behaviors.",True,False,True,True
+427,types of animal behavior,"Animals that communicate with sounds include frogs, birds, and monkeys.",True,False,True,True
+428,types of animal behavior,"In a honeybee colony, most of the adult bees are drones.",True,False,False,False
+429,types of animal behavior,The only way animals cooperate is by sharing food.,True,False,False,False
+430,types of animal behavior,All birds have the same courtship behaviors.,True,False,False,False
+431,types of animal behavior,Animals are more likely to put on a defensive display than fight to defend their territory.,True,False,True,True
+432,types of animal behavior,"Animals that hibernate include some species of bats, squirrels, and snakes.",True,False,True,True
+433,types of animal behavior,Only the human species has a biological clock to control circadian rhythms.,True,False,False,False
+434,types of animal behavior,Some birds communicate by dancing.,True,False,True,True
+435,types of animal behavior,"In most species of birds and mammals, parents care for their young.",True,False,True,True
+436,types of animal behavior,Most species of bees and ants are highly social animals.,True,False,True,True
+437,types of animal behavior,Only social insects work together with other members of their group.,True,False,False,False
+438,types of animal behavior,Bears are the only animals that hibernate during the winter.,True,False,False,False
+439,choosing healthy foods,Cheese is placed in the protein food group.,True,False,False,True
+440,choosing healthy foods,Guidelines for using MyPlate include avoiding oversized portions.,True,False,True,True
+441,choosing healthy foods,You can tell whether a food contains whole grains by reading the nutrition facts label.,True,False,False,False
+442,choosing healthy foods,Physical activity is an important part of balanced eating.,True,False,True,True
+443,choosing healthy foods,Obesity is diagnosed on the basis of body mass index.,True,False,True,True
+444,choosing healthy foods,There is no food group on MyPlate for foods such as cookies and potato chips.,True,False,True,True
+445,choosing healthy foods,The grains food group includes breads and cereals.,True,False,True,True
+446,choosing healthy foods,The protein food group includes only foods that come from animals.,True,False,False,False
+447,choosing healthy foods,The first item at the top of a nutrition facts label is the total fat content of the package.,True,False,False,False
+448,choosing healthy foods,The percent daily values on a nutrition facts label are based on a 2000-Calorie-per-day diet.,True,False,True,True
+449,choosing healthy foods,The last item on an ingredients list is always the amount of a vitamin or mineral in the food.,True,False,False,False
+450,choosing healthy foods,Getting regular exercise may help improve your mood as well as your physical health.,True,False,True,True
+451,communities,An increase in a predator population is likely to lead to a decrease in the population of its prey.,True,False,True,True
+452,communities,Most keystone species are producers such as plants.,True,False,False,False
+453,communities,A symbiotic relationship may be harmful to both of the species involved in the relationship.,True,False,False,False
+454,communities,Intraspecific competition is a type of symbiotic relationship.,True,False,False,False
+455,communities,Predator organisms are always larger than the organisms they prey upon.,True,False,False,False
+456,communities,Camouflage is a common adaptation in both predator and prey species.,True,False,True,True
+457,communities,A symbiotic relationship may not be beneficial to either species.,True,False,False,False
+458,communities,Types of symbiosis include intraspecific and interspecific competition.,True,False,False,False
+459,communities,"Many species of animals are parasites, at least during some stage of their life cycle.",True,False,True,True
+460,communities,A parasite generally lives in or on its host.,True,False,True,True
+461,communities,Most parasites eventually kill their host.,True,False,False,False
+462,communities,Predator adaptations help them escape from prey.,True,False,False,False
+463,ecosystems,The focus of study in ecology is often the ecosystem.,True,False,True,True
+464,ecosystems,A dead log in a forest could be considered an ecosystem.,True,False,True,True
+465,ecosystems,Features of a habitat depend mainly on biotic factors.,True,False,False,False
+466,ecosystems,Each ecosystem can have at most just one niche.,True,False,False,False
+467,ecosystems,The biotic component of an ecosystem is the population.,True,False,False,False
+468,ecosystems,An ecosystem is a unit of nature.,True,False,True,True
+469,ecosystems,Energy is constantly recycled through ecosystems.,True,False,False,True
+470,ecosystems,A major aspect of a species niche is how the species obtains energy and matter.,True,False,True,True
+471,ecosystems,A habitat is the physical environment to which a species has adapted.,True,False,True,True
+472,ecosystems,"When two species occupy the same niche in the same habitat at the same time, both species always",True,False,False,False
+473,ecosystems,An ecosystem always covers a large geographic area.,True,False,False,False
+474,ecosystems,Features of a species habitat include relationships with other species.,True,False,False,True
+475,flow of energy,Energy enters most ecosystems in the form of chemical compounds.,True,False,False,False
+476,flow of energy,All ecosystems have organisms that are classified as producers.,True,False,True,True
+477,flow of energy,Chemoautotrophs include archaea and certain bacteria.,True,False,True,True
+478,flow of energy,Heterotrophs include producers and decomposers.,True,False,False,False
+479,flow of energy,Higher trophic levels have less biomass than lower trophic levels.,True,False,True,True
+480,flow of energy,About 90 percent of the energy at a given trophic level is passed up to the next trophic level.,True,False,False,False
+481,flow of energy,Examples of detritivores include fungi and cockroaches.,True,False,False,True
+482,flow of energy,An example of a saprotroph is a hyena.,True,False,False,False
+483,flow of energy,Most organisms are consumed by just one species.,True,False,False,False
+484,flow of energy,There are rarely more than four trophic levels in a food chain or food web.,True,False,True,False
+485,flow of energy,A food web shows who eats whom in an ecosystem.,True,False,True,True
+486,flow of energy,Consumers always feed at just one trophic level.,True,False,False,False
+487,ecosystem change,No ecosystem is completely unchanging.,True,False,True,True
+488,ecosystem change,All ecological change is either primary or secondary succession.,True,False,False,False
+489,ecosystem change,Wind and water help weather rock and form soil in primary succession.,True,False,True,True
+490,ecosystem change,Plants can grow in an area only after soil has formed.,True,False,True,False
+491,ecosystem change,Most ecosystems change continuously.,True,False,True,True
+492,ecosystem change,Two types of ecological succession are primary succession and climax succession.,True,False,False,False
+493,ecosystem change,Trees usually colonize an area before small plants such as grasses.,True,False,False,False
+494,ecosystem change,Primary succession may occur following a landslide or the retreat of a glacier.,True,False,True,True
+495,ecosystem change,"Ecological succession always ends at a final, stable state.",True,False,False,False
+496,ecosystem change,Most ecosystems have climax communities.,True,False,False,True
+497,ecosystem change,"As plants grow and die, they improve the soil by adding organic matter.",True,False,True,True
+498,ecosystem change,Primary succession occurs more quickly than secondary succession.,True,False,False,False
+499,biodiversity and extinction,Biodiversity is an important natural resource.,True,False,True,True
+500,biodiversity and extinction,Scientists have already discovered most of the species that are alive today.,True,False,False,False
+501,biodiversity and extinction,Scientists estimate that there are a total of 100 million species currently in existence.,True,False,False,False
+502,biodiversity and extinction,"Products that living things provide include rubber, dyes, and adhesives.",True,False,True,True
+503,biodiversity and extinction,Scientists have identified about 7.9 million living species.,True,False,False,False
+504,biodiversity and extinction,Wild organisms maintain a valuable pool of genetic variation.,True,False,True,True
+505,biodiversity and extinction,More than half of the most important prescription drugs come from wild species.,True,False,True,True
+506,biodiversity and extinction,Microorganisms purify water and decompose organic matter.,True,False,True,True
+507,biodiversity and extinction,Amphibians are particularly sensitive to environmental toxins because of their permeable skin.,True,False,True,True
+508,biodiversity and extinction,Most domestic species have been bred to be genetically variable.,True,False,False,False
+509,biodiversity and extinction,Predatory birds and spiders increase the need for chemical pesticides.,True,False,False,False
+510,biodiversity and extinction,About half of the wetlands in the U.S. have already been destroyed.,True,False,True,True
+511,mendels discoveries,Mendels laws apply only to pea plants.,True,False,False,False
+512,mendels discoveries,Mendels work was largely ignored until 1900.,True,False,True,True
+513,mendels discoveries,Pea plants were a good choice for Mendels research because they grow quickly.,True,False,True,True
+514,mendels discoveries,"In Mendels second set of experiments, all of the F1 plants had wrinkled, green seeds.",True,False,False,False
+515,mendels discoveries,"In sexually reproducing plants, female gametes are released by tiny grains of pollen.",True,False,False,False
+516,mendels discoveries,Mendels discoveries made him a well-known scientist in his own lifetime.,True,False,False,False
+517,mendels discoveries,Mendels laws form the basis of the science of genetics.,True,False,True,True
+518,mendels discoveries,"In Mendels second set of experiments, the F2 generation always had traits in the ratio 9:3:3:1.",True,False,True,True
+519,mendels discoveries,"In Mendels first set of experiments, both forms of a trait always showed up in the F1 plants.",True,False,False,False
+520,mendels discoveries,Mendel chose pea plants to study because they have asexual reproduction.,True,False,False,False
+521,mendels discoveries,Mendel determined that one out of four F2 plants inherits two recessive factors for a given trait.,True,False,True,True
+522,mendels discoveries,"If you were to cross a violet-flowered pea plant with a white-flowered pea plant, the first generation",True,False,False,False
+523,introduction to genetics,Different genotypes always produce different phenotypes.,True,False,False,False
+524,introduction to genetics,All of the traits Mendel studied were polygenic traits.,True,False,False,False
+525,introduction to genetics,A Punnett square shows exactly how many children of each genotype a given set of parents will actually,True,False,False,False
+526,introduction to genetics,An example of non-Mendelian inheritance is incomplete dominance.,True,False,True,True
+527,introduction to genetics,"For many traits, your phenotype is influenced by your environment as well as your genotype.",True,False,True,True
+528,introduction to genetics,Mendels laws were rediscovered in 1990.,True,False,False,False
+529,introduction to genetics,"Within a species, most variation in traits is due to different alleles.",True,False,True,True
+530,introduction to genetics,"If a gene has two alleles, there are two possible genotypes.",True,False,False,False
+531,introduction to genetics,"If a parent has the genotype Bb, you would expect all of the parents gametes to contain the B",True,False,False,False
+532,introduction to genetics,You could use a Punnett square to predict the most likely ratio of daughters to sons in a given,True,False,True,False
+533,introduction to genetics,"A person with type A blood could have the genotype AA, AO, or AB.",True,False,False,True
+534,introduction to genetics,Adult height is an example of a sex-linked trait.,True,False,False,False
+535,advances in genetics,"There are fewer than 10,000 human genes.",True,False,False,False
+536,advances in genetics,The Human Genome Project was accomplished entirely by U.S. scientists.,True,False,False,False
+537,advances in genetics,Few genetic disorders are caused by mutations in a single gene.,True,False,False,True
+538,advances in genetics,The genotype of a person with Turners syndrome is XO.,True,False,True,True
+539,advances in genetics,The polymerase chain reaction is a technique for making many copies of a gene.,True,False,True,True
+540,advances in genetics,Knowledge of the human genome helps us understand how the human species evolved.,True,False,True,True
+541,advances in genetics,Dominant genetic disorders are more common than recessive genetic disorders.,True,False,False,False
+542,advances in genetics,"Based on his phenotype, U.S. president Abraham Lincoln is thought to have had Turners syn-",True,False,False,False
+543,advances in genetics,Most chromosomal disorders involve the sex chromosomes.,True,False,True,False
+544,advances in genetics,Biotechnology is also referred to as genetic engineering.,True,False,True,True
+545,advances in genetics,The only use of biotechnology is curing genetic disorders.,True,False,False,False
+546,advances in genetics,Eating GMOs has been shown to cause genetic disorders in people.,True,False,False,False
+547,archaea,All archaeans live in extreme environments.,True,False,False,False
+548,archaea,Prokaryotes now called archaeans were first discovered in the late 1970s.,True,False,False,True
+549,archaea,Archaeans called halogens have been found in Utahs Great Salt Lake.,True,False,True,False
+550,archaea,Some archaeans can survive and reproduce in boiling water.,True,False,True,True
+551,archaea,Archaeans make up about 20 percent of the total mass of organisms on Earth.,True,False,True,False
+552,archaea,Archaeans were placed in their own domain in the late 1970s.,True,False,True,True
+553,archaea,Scientists now know a lot about the Archaea Domain.,True,False,False,True
+554,archaea,All species in the Archaea Domain are extremophiles.,True,False,False,False
+555,archaea,There are just three types of archaean extremophiles.,True,False,False,False
+556,archaea,Archaeans called acidophiles thrive at negative pH values.,True,False,True,False
+557,archaea,Archaeans are very common in the ocean.,True,False,True,True
+558,archaea,Many Archaeans live in or on other organisms.,True,False,True,True
+559,alligators and crocodiles,crocodilian reptiles are the closest living relatives of birds.,True,False,True,False
+560,alligators and crocodiles,modern reptiles are the only known living descendants of the dinosaurs.,True,False,False,False
+561,amphibians,"land-based amphibian larvae are born and live in water, and they breathe using lungs. they move onto land later in life.",True,False,False,False
+562,amphibians,adult amphibians can breathe through their skin.,True,False,True,True
+563,angiosperms,angiosperms are the most successful plants.,True,False,True,True
+564,angiosperms,"wheat, corn, beans and potatoes all come from flowering plants.",True,False,True,True
+565,animal behaviors,hunting is a type of animal behavior.,True,False,True,False
+566,animal behaviors,many animal behaviors are to provide food.,True,False,True,True
+567,animal communication,all animals communicate with sound.,True,False,False,False
+568,animal communication,language is the use of symbols to communicate.,True,False,True,True
+569,animal like protists,animal-like protists cannot produce their own food.,True,False,True,True
+570,animal like protists,all animal-like protists have the ability to move.,True,False,False,True
+571,arachnids,arachnids are a type of insect.,True,False,False,False
+572,arachnids,"like all arthropods, arachnids have three body segments.",True,False,False,False
+573,arthropods,arthropods means jointed legs.,True,False,False,True
+574,arthropods,insects are arthropods with six appendages.,True,False,True,True
+575,basic and applied science,the goal of basic science is to solve practical problems.,True,False,False,False
+576,basic and applied science,surgeons operating on a person is an example of basic science.,True,False,False,False
+577,biotechnology in agriculture,the majority of corn is a transgenic crop.,True,False,True,True
+578,biotechnology in agriculture,developing drought resistant crops is beneficial to humans.,True,False,True,True
+579,bird reproduction,all birds lay eggs.,True,False,True,True
+580,bird reproduction,"in birds, first the female lays her eggs, then the males fertilize them.",True,False,False,False
+581,birds,a key feature of all birds is flight.,True,False,False,False
+582,birds,"the ostrich is the tallest bird, reaching a height of 12 feet.",True,False,False,False
+583,blood pressure,blood pressure reflects the pressure in your arteries.,True,False,True,True
+584,blood pressure,low blood pressure needs to be treated immediately.,True,False,False,False
+585,centipedes and millipedes,all centipedes and millipedes live on land.,True,False,True,False
+586,centipedes and millipedes,"most myriapods are decomposers, breaking down decaying plant material.",True,False,True,True
+587,choosing healthy foods,myplate replaced mypyramid in 201,True,False,True,False
+588,choosing healthy foods,myplate says that half of your food should be grains and proteins.,True,False,True,False
+589,chordates,"at some point, you had a tail.",True,False,True,False
+590,chordates,all chordates are vertebrates.,True,False,False,False
+591,cnidarians,cnidarians are one of the first types of animals to have true tissues.,True,False,True,True
+592,cnidarians,"cnidarians, like sponges, have radial symmetry.",True,False,False,True
+593,competition,"during exponential growth, there is no competition.",True,False,True,False
+594,competition,trees compete for sunlight.,True,False,True,True
+595,consumers and decomposers,decomposers are consumers.,True,False,True,True
+596,consumers and decomposers,decomposers recycle nutrients back into the soil.,True,False,True,True
+597,control of insects,"ladybugs destroy crops, so farmers tend to try to kill this pest.",True,False,False,False
+598,control of insects,"mosquitoes like to eat dragonflies, and are routinely used to control this pest.",True,False,False,False
+599,crustaceans,crustaceans are dominant ocean organisms.,True,False,True,False
+600,crustaceans,not all crustaceans live in water.,True,False,True,True
+601,cyclic behavior of animals,bears are the best known example of an animal that hibernates.,True,False,False,True
+602,cyclic behavior of animals,the biological clock controls daily migration patterns.,True,False,False,False
+603,diversity of birds,birds are found on all continents except antarctica.,True,False,False,False
+604,diversity of birds,a specialist can be in trouble if its one food source declines.,True,False,True,True
+605,ecosystems,an aquarium is its own ecosystem.,True,False,True,True
+606,ecosystems,energy flows through ecosystems in one direction. matter and nutrients are recycled.,True,False,True,True
+607,fields in the life sciences,"the life sciences include cell biology, molecular chemistry and genetics.",True,False,False,True
+608,fields in the life sciences,botany is the study of plants.,True,False,True,True
+609,food webs,a food chain can go on for 7 or 8 levels.,True,False,False,False
+610,food webs,food chains depict the flow of energy through an ecosystem.,True,False,True,True
+611,frogs and toads,the biggest frog is about a foot long.,True,False,True,True
+612,frogs and toads,most frogs live in tropical rainforests.,True,False,True,True
+613,fungi,"fungi are all eukaryotes that are not animals, plants or protists.",True,False,True,True
+614,fungi,"at one time, scientists thought fungi were plants.",True,False,True,True
+615,fungi classification,scientists used to think that fungi were members of the protist kingdom.,True,False,False,True
+616,fungi classification,"like plants, fungi are autotrophs.",True,False,False,False
+617,fungi reproduction,many fungi reproduce both sexually and asexually.,True,False,True,True
+618,fungi reproduction,"spores are found in bacteria, plants, algae, fungi, and some protozoa.",True,False,True,True
+619,gymnosperms,the root word of gymnosperms means naked.,True,False,True,True
+620,gymnosperms,gymnosperms have seeds but no fruit.,True,False,True,True
+621,habitat and niche,only 2 species at the most can share the same niche.,True,False,False,False
+622,habitat and niche,only 2 species at the most can have the same habitat.,True,False,False,False
+623,habitat destruction,humans often destroy the habitats of other organisms.,True,False,True,True
+624,habitat destruction,habitat destruction is a natural process of succession.,True,False,False,False
+625,human uses of fungi,fungi are important decomposers in the environment.,True,False,True,True
+626,human uses of fungi,"without fungi, there might not be any beer or wine.",True,False,True,True
+627,human vision,human beings and other primates depend on vision more than many other animals.,True,False,True,True
+628,human vision,humans have the best vision of all animals.,True,False,False,False
+629,humans and primates,humans are great apes.,True,False,True,True
+630,humans and primates,"genetically, there is very little difference between humans and the other great apes.",True,False,True,True
+631,importance of arthropods,insects and their grubs are extremely nutritious.,True,False,True,True
+632,importance of arthropods,insects are eaten by about 1 of every 3 people on earth.,True,False,True,True
+633,importance of biodiversity,the coral reef is an ecosystem with high biodiversity.,True,False,True,True
+634,importance of biodiversity,a lot of technology used by humans comes from observing organisms in the wild.,True,False,True,True
+635,importance of birds,turkey eggs are a popular item consumed worldwide.,True,False,False,False
+636,importance of birds,"chickens have been raised as food for over 3,000 years.",True,False,True,True
+637,importance of echinoderms,sand dollars have been used to study development.,True,False,False,True
+638,importance of echinoderms,echinoderms have played an important role in maintaining the stability of ecosystems.,True,False,True,True
+639,importance of insects,"insects live in all environments, with quite a few living in the harsh arctic.",True,False,False,True
+640,importance of insects,one thing all insects have in common is that they fertilize soil.,True,False,True,False
+641,importance of mammals,mammals are all top carnivores.,True,False,False,False
+642,importance of mammals,zebra and wildebeest feed off each other on the african savannah.,True,False,False,False
+643,importance of mollusks,a lot of people like to eat snails.,True,False,True,True
+644,importance of mollusks,"red tide mollusks are especially good to eat, as the red elements add tremendous flavor.",True,False,False,False
+645,importance of protists,we need protists to live.,True,False,True,True
+646,importance of protists,protists are used to make ice cream.,True,False,True,False
+647,importance of reptiles,a lot of people believe reptiles taste good.,True,False,True,True
+648,importance of reptiles,people can eat rattlesnake without worry of the poison venom.,True,False,True,True
+649,importance of seedless plants,ferns form coal.,True,False,True,True
+650,importance of seedless plants,"without seedless plants evolving millions of years ago, life as we know it would be very different.",True,False,True,True
+651,innate behavior of animals,human innate behaviors are reflexes.,True,False,True,True
+652,innate behavior of animals,"all members of a species, even if there are billions of members, all perform innate behaviors the same way.",True,False,True,False
+653,insect food,"all insects are herbivores, feeding on plant material.",True,False,False,False
+654,insect food,"during sponging, the mouthpart acts like a sponge, absorbing liquids.",True,False,True,True
+655,insect reproduction and life cycle,most insects undergo complete metamorphosis.,True,False,True,True
+656,insect reproduction and life cycle,all insects undergo some type of metamorphosis.,True,False,False,True
+657,insects,"insects, not birds, were the first animals to evolve wings.",True,False,True,True
+658,insects,ants are winged insects.,True,False,True,True
+659,introduction to ecology,many ecologists actually do their research in the field.,True,False,True,True
+660,introduction to ecology,one way organisms interact with each other is by eating other organisms.,True,False,True,True
+661,invertebrates,invertebrates greatly outnumber mammals.,True,False,True,True
+662,invertebrates,only some invertebrates have a backbone.,True,False,False,False
+663,learned behavior of animals,playing helps certain mammals learn how to be better hunters.,True,False,True,True
+664,learned behavior of animals,learning math by watching your teacher complete math problems is a type of insight learning.,True,False,False,False
+665,levels of ecological organization,a cell is the smallest unit of study in ecology.,True,False,False,False
+666,levels of ecological organization,abiotic factors are necessary for a thriving ecosystem.,True,False,True,True
+667,lizards and snakes,the majority of snakes are poisonous.,True,False,True,False
+668,lizards and snakes,lizards are the only reptile that lives on every continent.,True,False,False,False
+669,mammal characteristics,a whale is not a fish.,True,False,True,True
+670,mammal characteristics,you have more in common with a lizard than you do with a whale.,True,False,False,False
+671,mammal classification,"humans are primate mammals, like monkeys and apes.",True,False,True,True
+672,mammal classification,bats are the only mammals that can truly fly.,True,False,True,True
+673,mammal reproduction,monotremes are the only mammals to lay eggs.,True,False,True,True
+674,mammal reproduction,the majority of mammals are marsupials.,True,False,False,False
+675,mass extinctions,extinctions are part of natural selection.,True,False,True,True
+676,mass extinctions,"in each of the mass extinction, over 50% of animal species died and went extinct.",True,False,True,True
+677,mendels laws and genetics,the genetic law of segregation was developed by mendel.,True,False,True,True
+678,mendels laws and genetics,mendel based his conclusions on his understanding of meiosis.,True,False,False,False
+679,mendels pea plants,inheritance is the study of genetics.,True,False,False,False
+680,mendels pea plants,"eye color, hair color and the shape of your ears can be inherited.",True,False,True,True
+681,microevolution and macroevolution,macroevolution is evolution within one species.,True,False,False,False
+682,microevolution and macroevolution,darwins finches define a single population of finches.,True,False,False,False
+683,modern genetics,what mendel termed factors are today known as alleles.,True,False,True,True
+684,modern genetics,you inherit one allele from each parent.,True,False,True,True
+685,molecular evidence for evolution,some of the best evidence of evolution comes from examining dna.,True,False,True,True
+686,molecular evidence for evolution,"at 12 on the molecular clock, all sequences are equal.",True,False,False,False
+687,natural selection,the diversity of species increases the chance that at least some organisms adapt and survive any major changes in the environment.,True,False,True,True
+688,natural selection,the selection of beneficial traits is a natural process.,True,False,True,True
+689,nonvascular plants,nonvascular plants and vascular seedless plants first dominated the early forests.,True,False,True,True
+690,nonvascular plants,hornworts were the first plants to have vascular tissues.,True,False,False,False
+691,organization of living things,"kingdom bacteria, kingdom archaea, kingdom protista, kingdom plantae, kingdom fungi, and kingdom animalia are the six kingdoms of life.",True,False,True,True
+692,organization of living things,binomial nomenclature gives a scientific name to every organism.,True,False,True,True
+693,origin of species,speciation is evolution.,True,False,False,True
+694,origin of species,new species only develop through natural selection.,True,False,False,False
+695,plant characteristics,all plants can photosynthesize.,True,False,True,False
+696,plant characteristics,eukaryotes have cells with nuclei that contain dna and membrane-bound organelles.,True,False,True,True
+697,plant classification,all plants grow from seeds.,True,False,False,False
+698,plant classification,there are only 4 main categories of plants.,True,False,True,False
+699,plant hormones,hormones allow plants to move to a new location.,True,False,False,False
+700,plant hormones,hormones can be referred to as chemical messenger molecules.,True,False,True,True
+701,plant like protists,plant-like protists are able to photosynthesize.,True,False,True,True
+702,plant like protists,plant-like protists are the basis of food chains in the ocean.,True,False,True,True
+703,plants adaptations for life on land,the first photosynthetic organisms lived in water.,True,False,True,True
+704,plants adaptations for life on land,there is only one adaptation for plant life on land shared by all plants.,True,False,True,False
+705,predation,predation lowers the fitness of the predator.,True,False,False,False
+706,predation,grazing is a type of predation in which the prey is not killed.,True,False,True,True
+707,primates,humans are the only intelligent primate.,True,False,False,False
+708,primates,"primates include lemurs, monkeys, apes and humans.",True,False,True,True
+709,protist characteristics,all protists are single-celled organisms.,True,False,False,False
+710,protist characteristics,protists were the first eukaryotes to evolve.,True,False,True,True
+711,protists nutrition,all protists must eat to obtain energy.,True,False,False,False
+712,protists nutrition,all protists need to obtain food for energy.,True,False,True,False
+713,punnett squares,a punnett square is used to depict the potential offspring from a cross.,True,False,True,True
+714,punnett squares,"in a punnett square, the possible offspring are represented by the letters in the boxes, with one factor coming from each parent.",True,False,True,True
+715,reproduction in seedless plants,hornworts reproduce using seeds.,True,False,False,False
+716,reproduction in seedless plants,"the sporophyte is haploid, with a single set of chromosomes.",True,False,False,False
+717,reproductive behavior of animals,display behaviors are a type of courtship ritual.,True,False,False,True
+718,reproductive behavior of animals,display behaviors are used to defend territory.,True,False,True,True
+719,reptiles,some reptiles have the ability to change the color of their scales.,True,False,True,True
+720,reptiles,modern reptiles live on every continent.,True,False,False,True
+721,role of amphibians,amphibians are an important food source to many people.,True,False,True,True
+722,role of amphibians,frogs are important predators in that they keep insect populations stable.,True,False,True,True
+723,safety in the life sciences,"pathogens include disease-causing microorganisms, such as bacteria and fungi.",True,False,True,True
+724,safety in the life sciences,professional scientists do not need to follow safety guidelines as carefully as others.,True,False,False,False
+725,salamanders,a salamander looks like it has the head of a frog with the body of a lizard.,True,False,True,True
+726,salamanders,"many salamanders live in swamps, as there is plenty of plant life for them to eat.",True,False,False,False
+727,scientific investigation,the scientific method is the general process of a scientific investigation.,True,False,True,True
+728,scientific investigation,scientists always exactly follow all the steps in the scientific method.,True,False,False,False
+729,scientific theories,a hypothesis is based on evidence collected through experiments.,True,False,False,True
+730,scientific theories,"if only a little evidence disproves a scientific theory, the theory can still be accepted.",True,False,False,False
+731,scientific ways of thinking,the key to being a great scientist is to ask questions.,True,False,True,True
+732,scientific ways of thinking,good scientists are skeptical. they question the answers to their questions.,True,False,True,True
+733,seasonal changes in plants,plants can readily tell what month it is.,True,False,False,False
+734,seasonal changes in plants,plants can readily tell the length of darkness each 24 hour period.,True,False,True,True
+735,seeds and seed dispersal,seeds allow a plant embryo to survive harsh conditions.,True,False,True,True
+736,seeds and seed dispersal,some seeds can stay in a resting state for hundreds of years.,True,False,True,True
+737,social behavior of animals,an ant colony may have over a billion ants.,True,False,False,False
+738,social behavior of animals,male lions of a pride work together to hunt.,True,False,False,False
+739,structural evidence for evolution,you ancient ancestors had tails.,True,False,True,True
+740,structural evidence for evolution,humans evolved from chimpanzees.,True,False,False,False
+741,succession,"primary succession always starts with a pioneer species, which is usually a type of small insect.",True,False,False,False
+742,succession,secondary succession usually begins with small grasses.,True,False,True,True
+743,symbiosis,the worst symbiotic relationship is one in which neither organism benefits.,True,False,False,False
+744,symbiosis,parasites usually kill their host.,True,False,False,False
+745,symbiotic relationships of fungi,many plants need fungi to live.,True,False,True,True
+746,symbiotic relationships of fungi,both organisms benefit in a mutualistic relationship.,True,False,True,True
+747,terrestrial biomes,"latitude, humidity, and elevation affect the type of terrestrial biome.",True,False,True,True
+748,terrestrial biomes,the humidity of a desert is most likely described as arid.,True,False,True,False
+749,the biosphere,earth maintains homeostasis.,True,False,True,True
+750,the biosphere,"bacteria, protists, and fungi are found in each part of the biosphere.",True,False,True,True
+751,tracing evolution,the rate of evolution is usually very fast.,True,False,False,False
+752,tracing evolution,we usually cannot see the effects of evolution in most organisms.,True,False,True,True
+753,tropisms,plants are able to move towards light.,True,False,False,True
+754,tropisms,plants respond to their environment by changing how they grow.,True,False,True,True
+755,turtles,all turtles can draw their neck inside and under their spine.,True,False,False,False
+756,turtles,all turtles are gentle herbivores.,True,False,False,False
+757,types of archaea,archaea thrive in extreme environments.,True,False,True,True
+758,types of archaea,"archaea cannot live in regular environments, such as soil.",True,False,False,False
+759,types of mollusks,only animals with shells are mollusks.,True,False,False,False
+760,types of mollusks,living mollusks are divided into eight classes.,True,False,True,True
+761,vascular seedless plants,xylem is the vascular tissue that transports water down a plant.,True,False,False,False
+762,vascular seedless plants,the evolution of vascular tissue allowed for the formation of ancient forests.,True,False,True,True
+763,vertebrate characteristics,all vertebrates have a brain.,True,False,True,True
+764,vertebrate characteristics,not all vertebrates have a bony skeleton.,True,False,True,True
+765,what are biomes,a biome is defined by its biotic factors.,True,False,False,False
+766,what are biomes,all aquatic biomes are similar.,True,False,False,False
+767,what is science,Modern Western science began during the Scientific Revolution.,True,False,True,True
+768,what is science,Marie Curie was awarded a Nobel prize for her discovery of the structure of the nucleus of the atom.,True,False,False,False
+769,what is science,The man known as the father of science used experiments to test competing theories about light.,True,False,False,True
+770,what is science,Science sometimes advances in big leaps.,True,False,True,True
+771,what is science,Theories are unproven laws.,True,False,False,False
+772,what is science,Science is best defined as a body of knowledge.,True,False,False,True
+773,what is science,"Once a scientific idea is accepted, it never changes.",True,False,False,False
+774,what is science,An example of a theory is Newtons theory of gravity.,True,False,False,True
+775,what is science,Scientific laws answer how questions.,True,False,True,True
+776,what is science,Albert Einstein is known as the father of science.,True,False,False,False
+777,what is science,The Scientific Revolution began when computers were invented in the 1900s.,True,False,False,False
+778,what is science,Scientists propose theories and then look for evidence to support them.,True,False,False,True
+779,what is science,The sun always rises in the morning is an example of a scientific law.,True,False,True,False
+780,what is science,Science always evolves slowly in small steps.,True,False,False,False
+781,what is science,Scientists may draw different conclusions from the same observations.,True,False,True,True
+782,the scope of physical science,Chemistry focuses on atoms and molecules.,True,False,True,True
+783,the scope of physical science,The formation of stalactites is a chemical process.,True,False,True,True
+784,the scope of physical science,Water waves involve both matter and energy.,True,False,True,True
+785,the scope of physical science,Physical science is all science that is not life science.,True,False,True,False
+786,the scope of physical science,Physical science is unrelated to our daily lives.,True,False,False,False
+787,the scope of physical science,A forensic scientist prepares and dispenses medicines.,True,False,False,False
+788,the scope of physical science,Energy is all the stuff that exists in the universe.,True,False,False,False
+789,the scope of physical science,The focus of chemistry is atoms and molecules.,True,False,True,True
+790,the scope of physical science,"Physics concepts include motion, forces, and energy.",True,False,True,True
+791,the scope of physical science,Matter is defined as anything that can be seen.,True,False,False,False
+792,the scope of physical science,Electricity is a form of matter.,True,False,False,False
+793,the scope of physical science,Chemistry concepts explain what happens to a candle when it burns.,True,False,True,True
+794,the scope of physical science,Chemistry concepts explain how a rainbow forms.,True,False,False,True
+795,the scope of physical science,Using lenses to correct vision problems involves both matter and energy.,True,False,True,True
+796,the scope of physical science,An example of a career in physical science is chemist.,True,False,True,True
+797,pressure of fluids,Pressure is a force that is exerted only by fluids.,True,False,False,False
+798,pressure of fluids,Bernoullis law explains why ketchup squirts out of a packet when pressure is applied to the other end.,True,False,False,False
+799,pressure of fluids,Pascals law explains how a hydraulic lift works.,True,False,True,True
+800,pressure of fluids,Particles of a fluid exert pressure in all directions.,True,False,True,True
+801,pressure of fluids,The spoiler on a racecar causes air pressure to push the car down toward the track.,True,False,True,True
+802,pressure of fluids,All fluids exert pressure.,True,False,True,True
+803,pressure of fluids,Particles of a fluid always move from an area of lower pressure to an area of higher pressure.,True,False,False,False
+804,pressure of fluids,Denser fluids exert greater pressure than less dense fluids.,True,False,True,True
+805,pressure of fluids,Air exerts greater pressure than water.,True,False,False,False
+806,pressure of fluids,Differences in air pressure allow you to breathe.,True,False,True,True
+807,pressure of fluids,Fluids have the ability to transmit pressure.,True,False,True,True
+808,pressure of fluids,Air flows faster below than above an airplane wing.,True,False,False,False
+809,pressure of fluids,The spoiler on a racecar acts like an upside-down wing.,True,False,True,True
+810,pressure of fluids,Air pressure decreases slowly at lower altitudes and then more quickly at higher altitudes.,True,False,False,True
+811,pressure of fluids,"In a hydraulic car lift, more pressure is applied to the hydraulic fluid than the fluid applies to the car.",True,False,False,False
+812,scientific investigation,All scientific research involves experiments.,True,False,False,False
+813,scientific investigation,Most scientific investigations start with a question or problem.,True,False,True,True
+814,scientific investigation,Any idea can be a scientific hypothesis.,True,False,False,False
+815,scientific investigation,Researchers should always communicate their results.,True,False,True,True
+816,scientific investigation,Scientific research must be guided by ethical rules.,True,False,True,True
+817,scientific investigation,All questions can be answered by scientific research.,True,False,False,False
+818,scientific investigation,A hypothesis is tested by taking a survey of leading experts in the field.,True,False,False,False
+819,scientific investigation,There is only one scientific method.,True,False,False,False
+820,scientific investigation,Scientific research may involve creativity as well as reason.,True,False,True,True
+821,scientific investigation,Some problems must be investigated in the real world instead of in a lab.,True,False,True,True
+822,scientific investigation,There must be at least two variables in an experiment.,True,False,True,True
+823,scientific investigation,Researchers always communicate their results by writing them up in textbooks.,True,False,False,False
+824,scientific investigation,Evidence gathered in an investigation is useful only if it supports the hypothesis.,True,False,False,False
+825,scientific investigation,Scientists always follow the steps of a scientific investigation in the same sequence.,True,False,False,False
+826,scientific investigation,Scientists do field studies to gather real-world evidence.,True,False,True,True
+827,science skills,There are always more significant figures in the answer than in the numbers used in the calculation.,True,False,False,False
+828,science skills,Only numbers greater than 1 can be written in scientific notation.,True,False,False,False
+829,science skills,The best type of graph to show changes in data over time is a circle graph.,True,False,False,False
+830,science skills,A percent can be expressed as a fraction or a decimal number.,True,False,True,True
+831,science skills,You should never work alone in a science lab.,True,False,True,True
+832,science skills,The basic SI unit for length is the millimeter.,True,False,False,False
+833,science skills,The freezing point of water on the Kelvin scale is 0 degrees.,True,False,False,False
+834,science skills,A graduated cylinder is used to measure the volume of liquids.,True,False,True,True
+835,science skills,Length is a derived quantity.,True,False,False,False
+836,science skills,The mean gives you an idea of the typical measurement in a set of data.,True,False,True,True
+837,science skills,You need to wear goggles in the lab only when you are using hazardous chemicals.,True,False,False,False
+838,science skills,"When combining an acid and water, you should always add the acid to the water.",True,False,True,True
+839,science skills,An example of a model is a road map.,True,False,True,True
+840,science skills,A kilometer equals 100 meters.,True,False,False,False
+841,science skills,A 1-degree difference on the Kelvin scale equals a 1-degree difference on the Fahrenheit scale.,True,False,False,False
+842,technology,Technology includes methods and processes as well as devices.,True,False,True,True
+843,technology,Many major advances in agriculture depend on technology.,True,False,True,True
+844,technology,The technological design process is similar to scientific investigation.,True,False,True,True
+845,technology,The first step in the technological design process is to create a model.,True,False,False,False
+846,technology,Cost is the only limit on technological design.,True,False,False,False
+847,technology,Technology and science have the same goals.,True,False,False,False
+848,technology,Electrons were discovered because of a technological device called the vacuum tube.,True,False,True,True
+849,technology,Technology helps science advance.,True,False,True,True
+850,technology,The technological design process is based only on creativity and luck.,True,False,False,False
+851,technology,The problems of society generally set the direction for technology.,True,False,True,True
+852,technology,Constraints on technological design include laws of nature.,True,False,True,True
+853,technology,The risks of a new technological design should outweigh its benefits.,True,False,False,False
+854,technology,Nanotechnology is used inside the human body.,True,False,True,True
+855,technology,Technology may be as simple as forks and knives.,True,False,True,True
+856,technology,Fiber optic technology is used in communications.,True,False,True,True
+857,behavior of gases,Particles of a gas move only when they are heated.,True,False,False,False
+858,behavior of gases,The pressure a gas exerts depends only on its volume.,True,False,False,False
+859,behavior of gases,"For gas at a given temperature, volume and pressure change in opposite directions.",True,False,True,True
+860,behavior of gases,"If particles of a gas have room to spread out, they exert greater pressure.",True,False,False,False
+861,behavior of gases,Gas bubbles in water get bigger when they are under less pressure.,True,False,True,True
+862,behavior of gases,Air pressure is lowest at sea level.,True,False,False,False
+863,behavior of gases,Heating a gas causes its particles to move more slowly.,True,False,False,False
+864,behavior of gases,Air pressure in a tire increases after you start driving because the air gets warmer.,True,False,True,True
+865,behavior of gases,There is an inverse relationship between gas pressure and temperature.,True,False,False,False
+866,behavior of gases,"As you go higher above Earths surface, the pressure of the atmosphere increases.",True,False,False,False
+867,behavior of gases,A gas will take up less space if its temperature falls.,True,False,True,True
+868,behavior of gases,"As the volume of a gas increases, its pressure decreases.",True,False,True,True
+869,behavior of gases,Cooling a gas in a closed container causes its pressure to decrease.,True,False,True,True
+870,behavior of gases,Adding more gas to a closed container has no effect on its pressure.,True,False,False,False
+871,behavior of gases,Adding energy to a gas raises its temperature.,True,False,True,True
+872,air pressure and altitude,particles of air are constantly moving.,True,False,True,True
+873,air pressure and altitude,air pressure decreases as altitude decreases.,True,False,False,False
+874,air pressure and altitude,atmospheric pressure at the top of mount everest is about 2/3 the pressure at sea level.,True,False,False,False
+875,amontonss law,gas molecules at a higher temperature have more energy.,True,False,True,True
+876,amontonss law,the relationship between the temperature and volume of gas is known as amontons law.,True,False,False,False
+877,amontonss law,particles of a gas have movement only when they are heated.,True,False,False,False
+878,bernoullis law,the spoiler on a racecar causes air pressure to push the car forward.,True,False,False,False
+879,bernoullis law,bernoullis law explains how an airplane can stay aloft.,True,False,True,True
+880,bernoullis law,the spoiler on a racecar is like an upside-down wing.,True,False,True,True
+881,bernoullis law,"when air is moving more quickly, its pressure is greater.",True,False,False,False
+882,boyles law,robert boyle has been called the father of modern chemistry.,True,False,True,True
+883,boyles law,boyles law applies to liquids as well as gases.,True,False,False,False
+884,charless law,a hot air balloon inflates because it is pumped full of helium.,True,False,False,False
+885,charless law,"for a gas under constant pressure, volume and pressure increase together at a constant rate.",True,False,True,False
+886,communication in science,scientists often share the results of their research by making posters.,True,False,True,True
+887,communication in science,scientists add to the body of scientific knowledge by communicating their findings.,True,False,True,True
+888,field study,a field study might identify problems for follow-up investigations by laboratory experiments.,True,False,True,True
+889,field study,scientists who do field studies do not need to make careful measurements.,True,False,False,False
+890,gases,a gas always spreads out to fill all available space.,True,False,True,True
+891,gases,the atmosphere exerts pressure only downward toward earths surface.,True,False,False,False
+892,hypothesis,"the more evidence that accumulates in support of a hypothesis, the more likely the hypothesis is true.",True,False,True,True
+893,oceanic pressure,water pressure increases as you go deeper in the ocean.,True,False,True,True
+894,oceanic pressure,"for each additional meter below the oceans surface, pressure changes by 100 kpa.",True,False,False,False
+895,pascals law,pressure always spreads throughout a fluid.,True,False,True,True
+896,pascals law,you can increase pressure by increasing the force applied to a given area.,True,False,True,True
+897,pascals law,you can increase pressure by increasing the area over which a given force is applied.,True,False,False,False
+898,pressure in fluids,all fluids exert pressure.,True,False,True,True
+899,pressure in fluids,particles of fluids always move from an area of lower pressure to an area of higher pressure.,True,False,False,False
+900,pressure in fluids,"the larger the area to which force is applied, the greater the pressure is.",True,False,False,False
+901,replication in science,"if research results can be replicated, it means they are more likely to be correct.",True,False,True,True
+902,replication in science,replication of research findings can help rule out that the results of an investigation occurred just by chance.,True,False,True,True
+903,safety in science,you can wear open-toed shoes in science lab as long as you wear socks.,True,False,False,False
+904,scientific experiments,there must be at least two variables in a scientific experiment.,True,False,True,True
+905,scientific experiments,experiments can be carried out only in a science lab.,True,False,False,False
+906,scientific process,scientific investigations are usually very organized and methodical.,True,False,True,True
+907,scientific process,"if evidence from a scientific investigation cannot answer the research question, it is useless.",True,False,False,False
+908,scientific process,the scientific method is a strict sequence of steps that are always followed in the same order.,True,False,False,False
+909,technology and science,science and technology have the same goal.,True,False,False,False
+910,technology careers,all engineers need basic knowledge of math and science.,True,False,True,True
+911,technology careers,most engineers work alone to complete entire projects.,True,False,False,False

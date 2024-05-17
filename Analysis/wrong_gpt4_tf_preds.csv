@@ -1,0 +1,104 @@
+,Unnamed: 0,lesson_name,question_name,answer_choice_1,answer_choice_2,correct_answer,gpt4_generated_answers
+4,4,the nature of science,A theory will still remain even if conflicting data is discovered.,True,False,False,True
+16,16,erosion and deposition by wind,Wind can carry dust just a few kilometers.,True,False,False,True
+43,43,air movement,"Walking on the beach in San Diego in December, one would likely feel a strong sea breeze coming off",True,False,False,True
+44,44,air movement,Winds blow northeast to southwest or the reverse due to Coriolis Effect.,True,False,True,False
+50,50,air movement,Global winds called westerlies blow toward the northwest or southwest.,True,False,False,True
+51,51,air movement,Global winds called easterlies blow away from the poles.,True,False,True,False
+58,58,changing weather,Fronts are always moving.,True,False,False,True
+81,81,storms,"If there were no thunderstorms in Kansas, there would be no tornadoes there either.",True,False,True,False
+95,95,weather forecasting,Weather radar is used to detect high winds.,True,False,False,True
+118,118,ecosystems,A community is all of the species and abiotic factors that coexist within a specific area.,True,False,False,True
+125,125,ecosystems,Some plants are consumers.,True,False,True,False
+129,129,ecosystems,Carbon is an example of a nutrient.,True,False,True,False
+132,132,air masses,for an air mass to acquire the characteristics of a region it must sit over that region for several hours.,True,False,False,True
+150,150,development of theories,a theory can offer an unreliable explanation.,True,False,False,True
+154,154,effects of air pollution on the environment,"without jet contrails to block sunlight, air temperature across the united states would be lower.",True,False,True,False
+155,155,effects of air pollution on the environment,visibility in the united states has been reduced as much as 30% from pre- industrial times.,True,False,False,True
+158,158,evolution plate tectonics and climate change,theories have very little information that contradicts them.,True,False,True,False
+163,163,flow of matter in ecosystems,the energy that powers all ecosystems on earth comes from the sun.,True,False,False,True
+192,192,pressure and density of the atmosphere,air pressure decreases as the altitude increases.,True,False,False,True
+196,196,roles in an ecosystem,omnivores only eat organisms from the plant and animal kingdoms.,True,False,False,True
+199,199,scientific community,a hypothesis will not be fully accepted unless it is supported by nearly all scientists.,True,False,True,False
+208,208,temperature of the atmosphere,"with the same number of molecules in less space, both air density and air pressure are lower.",True,False,True,False
+210,210,temperature of the atmosphere,"when air gets cooler, it decreases in density.",True,False,True,False
+215,215,types of marine organisms,phytoplankton are responsible for about one-quarter of earths total primary productivity.,True,False,False,True
+218,218,types of marine organisms,some seabirds live their entire lives without coming to land.,True,False,False,True
+230,230,wind power,moving air has potential energy.,True,False,False,True
+234,234,scientific ways of thinking,A good definition of science is a body of knowledge about nature.,True,False,False,True
+276,276,introduction to plants,"After plant cells become specialized, they can no longer divide.",True,False,True,False
+297,297,plant responses and special adaptations,Plants have an immune system that protects them from disease.,True,False,False,True
+302,302,plant responses and special adaptations,Primary plant roots always grow down toward the center of Earth.,True,False,True,False
+308,308,what are animals,Virtually all animals have internal digestion of food.,True,False,True,False
+311,311,what are animals,Some animals can use sunlight to make their own food.,True,False,False,True
+320,320,how animals evolved,Modern animals with just two embryonic cell layers include flatworms.,True,False,False,True
+321,321,how animals evolved,Bilateral symmetry could evolve only after animals had evolved a distinctive head region.,True,False,True,False
+326,326,how animals evolved,The first animal trait to evolve was multicellularity.,True,False,True,False
+334,334,insects and other arthropods,Insects are the only invertebrates that can fly.,True,False,True,False
+339,339,insects and other arthropods,"In some arthropods, the head and the abdomen are joined together.",True,False,False,True
+347,347,echinoderms and invertebrate chordates,There are only about 25 species of living lancelets.,True,False,True,False
+357,357,amphibians,The respiratory and reproductive systems of amphibians share a single body cavity.,True,False,False,True
+364,364,amphibians,All known species of amphibians are placed in one of three orders.,True,False,True,False
+372,372,reptiles,A lizard uses its nose to smell scents in the air.,True,False,False,True
+378,378,reptiles,Tuataras are the least specialized of all living reptiles.,True,False,True,False
+379,379,birds,The largest bird is about 2 meters tall.,True,False,False,True
+397,397,mammals,Some mammals consume leaf litter and wood.,True,False,False,True
+410,410,primates,Tarsiers are classified as non-prosimian primates.,True,False,True,False
+423,423,understanding animal behavior,A bee learns to do the waggle dance by observing the behavior in other bees.,True,False,False,True
+424,424,understanding animal behavior,The only innate behaviors in human beings are reflex behaviors.,True,False,True,False
+439,439,choosing healthy foods,Cheese is placed in the protein food group.,True,False,False,True
+469,469,ecosystems,Energy is constantly recycled through ecosystems.,True,False,False,True
+474,474,ecosystems,Features of a species habitat include relationships with other species.,True,False,False,True
+481,481,flow of energy,Examples of detritivores include fungi and cockroaches.,True,False,False,True
+484,484,flow of energy,There are rarely more than four trophic levels in a food chain or food web.,True,False,True,False
+490,490,ecosystem change,Plants can grow in an area only after soil has formed.,True,False,True,False
+496,496,ecosystem change,Most ecosystems have climax communities.,True,False,False,True
+532,532,introduction to genetics,You could use a Punnett square to predict the most likely ratio of daughters to sons in a given,True,False,True,False
+533,533,introduction to genetics,"A person with type A blood could have the genotype AA, AO, or AB.",True,False,False,True
+537,537,advances in genetics,Few genetic disorders are caused by mutations in a single gene.,True,False,False,True
+543,543,advances in genetics,Most chromosomal disorders involve the sex chromosomes.,True,False,True,False
+548,548,archaea,Prokaryotes now called archaeans were first discovered in the late 1970s.,True,False,False,True
+549,549,archaea,Archaeans called halogens have been found in Utahs Great Salt Lake.,True,False,True,False
+551,551,archaea,Archaeans make up about 20 percent of the total mass of organisms on Earth.,True,False,True,False
+553,553,archaea,Scientists now know a lot about the Archaea Domain.,True,False,False,True
+556,556,archaea,Archaeans called acidophiles thrive at negative pH values.,True,False,True,False
+559,559,alligators and crocodiles,crocodilian reptiles are the closest living relatives of birds.,True,False,True,False
+565,565,animal behaviors,hunting is a type of animal behavior.,True,False,True,False
+570,570,animal like protists,all animal-like protists have the ability to move.,True,False,False,True
+573,573,arthropods,arthropods means jointed legs.,True,False,False,True
+585,585,centipedes and millipedes,all centipedes and millipedes live on land.,True,False,True,False
+587,587,choosing healthy foods,myplate replaced mypyramid in 201,True,False,True,False
+588,588,choosing healthy foods,myplate says that half of your food should be grains and proteins.,True,False,True,False
+589,589,chordates,"at some point, you had a tail.",True,False,True,False
+592,592,cnidarians,"cnidarians, like sponges, have radial symmetry.",True,False,False,True
+593,593,competition,"during exponential growth, there is no competition.",True,False,True,False
+599,599,crustaceans,crustaceans are dominant ocean organisms.,True,False,True,False
+601,601,cyclic behavior of animals,bears are the best known example of an animal that hibernates.,True,False,False,True
+607,607,fields in the life sciences,"the life sciences include cell biology, molecular chemistry and genetics.",True,False,False,True
+615,615,fungi classification,scientists used to think that fungi were members of the protist kingdom.,True,False,False,True
+637,637,importance of echinoderms,sand dollars have been used to study development.,True,False,False,True
+639,639,importance of insects,"insects live in all environments, with quite a few living in the harsh arctic.",True,False,False,True
+640,640,importance of insects,one thing all insects have in common is that they fertilize soil.,True,False,True,False
+646,646,importance of protists,protists are used to make ice cream.,True,False,True,False
+652,652,innate behavior of animals,"all members of a species, even if there are billions of members, all perform innate behaviors the same way.",True,False,True,False
+656,656,insect reproduction and life cycle,all insects undergo some type of metamorphosis.,True,False,False,True
+667,667,lizards and snakes,the majority of snakes are poisonous.,True,False,True,False
+693,693,origin of species,speciation is evolution.,True,False,False,True
+695,695,plant characteristics,all plants can photosynthesize.,True,False,True,False
+698,698,plant classification,there are only 4 main categories of plants.,True,False,True,False
+704,704,plants adaptations for life on land,there is only one adaptation for plant life on land shared by all plants.,True,False,True,False
+712,712,protists nutrition,all protists need to obtain food for energy.,True,False,True,False
+717,717,reproductive behavior of animals,display behaviors are a type of courtship ritual.,True,False,False,True
+720,720,reptiles,modern reptiles live on every continent.,True,False,False,True
+729,729,scientific theories,a hypothesis is based on evidence collected through experiments.,True,False,False,True
+748,748,terrestrial biomes,the humidity of a desert is most likely described as arid.,True,False,True,False
+753,753,tropisms,plants are able to move towards light.,True,False,False,True
+769,769,what is science,The man known as the father of science used experiments to test competing theories about light.,True,False,False,True
+772,772,what is science,Science is best defined as a body of knowledge.,True,False,False,True
+774,774,what is science,An example of a theory is Newtons theory of gravity.,True,False,False,True
+778,778,what is science,Scientists propose theories and then look for evidence to support them.,True,False,False,True
+779,779,what is science,The sun always rises in the morning is an example of a scientific law.,True,False,True,False
+785,785,the scope of physical science,Physical science is all science that is not life science.,True,False,True,False
+794,794,the scope of physical science,Chemistry concepts explain how a rainbow forms.,True,False,False,True
+810,810,pressure of fluids,Air pressure decreases slowly at lower altitudes and then more quickly at higher altitudes.,True,False,False,True
+885,885,charless law,"for a gas under constant pressure, volume and pressure increase together at a constant rate.",True,False,True,False
